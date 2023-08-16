@@ -6,13 +6,10 @@ Impact of COVID-19 Lockdown on Outdoor Air Quality in Virginia
 
 I. File list
 ------------
--Master_Dataset   Contains compiled final data for analysis
-
--SourceCode 		  Contains code as IPYNB files along with respective HTML formats
-
--Pollutants.zip		Contains raw data for all years individually
-
--README			      This file
+- Master_Dataset   Contains compiled final data for analysis
+- SourceCode 		   Contains code as IPYNB files along with respective HTML formats
+- Pollutants.zip	 Contains raw data for all years individually
+- README			     This file
 
 
 II. Prerequisites
