@@ -29,6 +29,7 @@ Prerequisites to form the final dataset (Refer Master_Dataset).
 IV. Setting Up System Environment
 ---------------------------------
 Launch a Jupyter Lab from the Anaconda Navigator with Python as kernel.
+
 Upload csv files from Master_Dataset folder and IPYNB files from SourceCode folder into the file directory of Jupyter Lab.
 
 
@@ -37,18 +38,23 @@ IV. Running the Code
 Open the uploaded IPython file to be run in Jupyter, Go to Run->Run All Cells.
 
 To Save results to HTML:
+
 Go to File-> Export Notebook As…->Export Notebook to HTML, and enter directory to save the file. 
 
 
 V. Generating GeoMap from PaintMaps.com
 ---------------------------------------
-Go to https://paintmaps.com/map-charts/274/Virginia-map-chart, 
+Go to https://paintmaps.com/map-charts/274/Virginia-map-chart,
+
 Provide Data obtained from Impact table of the code results as input in format advised in the website with appropriate legend.
+
 Click Update Data for generating the geomap.
+
 Click 'Download Map (PNG)' to download the generated geomap as an image file.
 
 
 VI. Authors
 ---------------------------------------
 Cameron Lee
+
 Madesh Chinnathevar Ramesh
