@@ -15,7 +15,9 @@ README			This file
 II. Prerequisites
 -----------------
 Microsoft Excel
+
 Anaconda Navigator
+
 Jupyter Lab (Python Kernel)
 
 
